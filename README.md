@@ -22,14 +22,9 @@
 ###  About Me :
 I am a Full Stack Developer
 
-  - I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  - : Writing.
-
-  - ks and read tech articles.
-
-  - 
-
+- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- Writing
 
 
 
