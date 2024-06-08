@@ -17,10 +17,11 @@
   <img src="https://komarev.com/ghpvc/?username=gerzarko&style=flat-square&color=blue" alt=""/>
 
 </div>
-  ---
 
-###  About Me :
-I am a Full Stack Developer
+---
+
+### My languages :
+
 
 - I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -30,7 +31,7 @@ I am a Full Stack Developer
 
  ---
 
-### :woman_technologist: My languages :
+### My languages :
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
